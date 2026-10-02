@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Manish! 👋
 
-<!--
-**manish2244/manish2244** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Python Developer | ML Enthusiast | Full-Stack Developer
 
-Here are some ideas to get you started:
+I love building intelligent, data-driven applications that solve real-world business problems. Currently working on end-to-end Python projects involving Machine Learning and Web Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Featured Project
+*   **[SmartLoan Trigger](https://github.com/manish2244/SmartLoan-Trigger)** — An intelligent Banking CRM system that uses ML (Random Forest) to segment customers and predict loan offers.
+
+---
+
+### 🛠️ Skills
+*   **Languages:** Python, SQL, JavaScript, HTML/CSS
+*   **Backend & Web:** Flask, REST APIs, SQLite
+*   **Data & ML:** Pandas, NumPy, Scikit-learn
+*   **Tools:** Git, GitHub, VS Code, Jupyter Notebook
+
+---
+
+### 📈 GitHub Stats
+![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=manish2244&show_icons=true&theme=radical)
+
+---
+
+### 📫 Connect with Me
+*   https://www.linkedin.com/in/manish-dwivedi-009a6b339/
+*   [Email](mailto:manishdwivedi9546@gmail.com)
+
+⭐️ From [manish2244](https://github.com/manish2244)
